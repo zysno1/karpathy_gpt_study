@@ -1,5 +1,9 @@
 # Karpathy GPT从零搭建资源链接
 
+## 项目内容
+- [build-nanogpt学习指南](learning_guide.md)：深入学习GPT模型构建的系统指南
+- Karpathy GPT相关项目资源汇总
+
 ## 视频教程
 1. Let's build GPT from scratch: https://www.youtube.com/watch?v=kCc8FmEb1nY
    - 时长：4小时44分钟
